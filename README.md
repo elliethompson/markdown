@@ -4,4 +4,4 @@ IXD101 Interaction Design Fundamentals
 Markdown
 --------
 
-- [Markdown](https://elliethompson.github.io/markdown/markdown.html)
+- [Markdown](https://github.com/elliethompson/markdown/blob/master/markdown.html)
